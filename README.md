@@ -10,4 +10,4 @@ https://www.linkedin.com/in/lucas-valentee/
 
 ## License
 
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/lucasvalentee/gobarber-app/blob/master/LICENSE)
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/lucasvalentee/gobarber-app/blob/master/LICENSE.md)
